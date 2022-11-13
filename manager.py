@@ -49,7 +49,7 @@ while True:
     print(lg+'[1] Add new accounts'+n)
     print(lg+'[2] Filter all banned accounts'+n)
     print(lg+'[3] Delete specific accounts'+n)
-    print(lg+'[4] Update your venomadder'+n)
+    print(lg+'[4] Update your Teach_teamop'+n)
     print(lg+'[5] Quit'+n)
     a = int(input('\nEnter your choice: '))
     if a == 1:
@@ -170,7 +170,7 @@ while True:
                 print(f'{lg}[!] Update aborted.')
                 input('Press enter to goto main menu...')
         else:
-            print(f'{lg}[i] Your venomadder is already up to date')
+            print(f'{lg}[i] Your Stardder is already up to date')
             input('Press enter to goto main menu...')
     elif a == 5:
         clr()
