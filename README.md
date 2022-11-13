@@ -1,14 +1,17 @@
 #Astra 1.2
+ᴄʀᴏss ᴘʟᴀᴛғᴏʀᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴍʙᴇʀs sᴄʀᴀᴘɪɴɢ ᴀɴᴅ ᴀᴅᴅɪɴɢ ᴛᴏᴏʟᴋɪᴛ
 
-Cross Platform Telegram Members Scraping and Adding Toolkit
+ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ɴᴏ ʟᴏɴɢᴇʀ ᴜɴᴅᴇʀ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ
 
-THIS PROJECT IS NO LONGER UNDER MAINTENANCE
-Usage 🧰
+𝐔𝐒𝐀𝐆𝐄 🧰
 You need to install requirements first - pip install -r requirements.txt
+
 Then you need to store your accounts using manager.py
+
 Then, scrape and add members using add.py
 
-Features ♨️
+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ♨️
+
 No need of API Id and API hash- It requires only phone numbers
 Adds 60 members on an average
 Adds members by ID, even if they don't have usernames.
