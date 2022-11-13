@@ -4,7 +4,8 @@
 ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ɴᴏ ʟᴏɴɢᴇʀ ᴜɴᴅᴇʀ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ
 
 𝐔𝐒𝐀𝐆𝐄 🧰
-You need to install requirements first - pip install -r requirements.txt
+You need to install requirements first 
+- `/- pip install -r requirements.txt`
 
 Then you need to store your accounts using manager.py
 
