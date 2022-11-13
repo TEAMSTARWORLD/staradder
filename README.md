@@ -1,4 +1,5 @@
-Astra 1.2
+#Astra 1.2
+
 Cross Platform Telegram Members Scraping and Adding Toolkit
 
 THIS PROJECT IS NO LONGER UNDER MAINTENANCE
