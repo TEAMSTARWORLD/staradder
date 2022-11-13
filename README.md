@@ -9,7 +9,7 @@ You need to install requirements first
 
 - Then you need to store your accounts using `manager.py`
 
--Then, scrape and add members using `add.py`
+- Then, scrape and add members using `add.py`
 
 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ♨️
 
