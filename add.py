@@ -1,7 +1,7 @@
 '''
 =============SON OF GENISYS=====================
 Astra members adding script
-Coded by a dumbass kid- github.com/TEAMSTARWORLD
+Coded by a dumbass kid- github.com/Cryptonian007
 Apologies if anything in the code is dumb :)
 Copy with credits
 ************************************************
